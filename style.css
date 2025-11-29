@@ -6,6 +6,7 @@ body {
   line-height: 1.6;
   background-color: #111;
   color: #eee;
+  text-align: center;
 }
 
 header, footer {
